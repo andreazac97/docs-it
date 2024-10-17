@@ -4,7 +4,7 @@ outline: deep
 
 # Le basi della Reattività {#reactivity-fundamentals}
 
-:::tip Preferenza dull'API
+:::tip Preferenza sull'API
 Questa pagina e molti altri capitoli più avanti nella guida contengono contenuti diversi per l'Options API e la Composition API. La tua preferenza attuale è <span class="options-api">Options API</span><span class="composition-api">Composition API</span>. Puoi alternare tra gli stili delle API utilizzando gli interruttori "Preferenza API" nella parte superiore della barra laterale sinistra.
 :::
 
